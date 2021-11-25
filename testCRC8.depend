@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629853699 source:d:\01guojianyu\testcrc8\main.cpp
+	<stdio.h>
+	<stdint.h>
+
+1530154074 source:d:\01guojianyu\testcrc8\crc8.c
+
